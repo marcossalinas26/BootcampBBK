@@ -1,7 +1,7 @@
 #El Perfume
 
 ## Descripción
-ScentMatch es una aplicación diseñada para ayudar a los usuarios a elegir la fragancia ideal basándose en la situación, el clima y preferencias personales. Soluciona la indecisión matutina aportando seguridad al usuario a través de una recomendación rápida y personalizada.
+El perfume es una aplicación diseñada para ayudar a los usuarios a elegir la fragancia ideal basándose en la situación, el clima y preferencias personales. Soluciona la indecisión matutina aportando seguridad al usuario a través de una recomendación rápida y personalizada.
 
 ## Estructura del Prototipo
 * **index.html**: Presentación y motivación.
