@@ -127,3 +127,10 @@ footer {
     position: relative;
     transition: transform 0.2s;
 }
+.img-resultado {
+    max-width: 50%;    /* No se sale del ancho de la pantalla */
+    height: auto;       /* Mantiene la proporción */
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
